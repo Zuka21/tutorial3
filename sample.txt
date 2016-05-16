@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Goodmorning!
+=======
+Hello!
+うんこてぃんてぃん
+>>>>>>> ceca751113b0a799e1cb224f710855fd1ee559c8
